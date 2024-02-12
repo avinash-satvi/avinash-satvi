@@ -1,0 +1,24 @@
+🚀 Exciting News in Sentiment Analysis! 🚀
+
+Hey LinkedIn fam! 👋 I wanted to share an awesome sentiment analysis project I've been working on using BERT models and web scraping. 🤖📊
+
+What it does:
+I've built a sentiment analysis pipeline that uses BERT (Bidirectional Encoder Representations from Transformers) to analyze the sentiment of text extracted from webpages. 🌐✨ The goal is to understand the sentiment (positive, negative, or neutral) of articles or content from various URLs.
+
+Key Features:
+
+🧠 Bert-based Model: Leveraging the power of BERT for sequence classification.
+🌐 Web Scraping: Extracting text from webpages using BeautifulSoup.
+📈 Sentiment Labeling: Converting numerical labels to human-readable sentiment labels.
+🔄 Batch Processing: Analyzing sentiment for multiple URLs in a single go.
+📊 Radar Chart: Visualizing sentiment analysis results in a cool radar chart using Matplotlib and NumPy.
+Example Result:
+I tested it on a recent article from Indian Express. The sentiment was [Positive] with a confidence score of [0.85]. 🌟
+
+Why it Matters:
+Understanding sentiment is crucial in today's digital landscape. This tool can help gauge public opinion, assess brand perception, and much more!
+
+Check it out:
+Feel free to explore the code and try it out with your favorite articles. The possibilities are endless! 🚀
+
+#SentimentAnalysis #BERT #MachineLearning #DataScience #WebScraping #NLP #TechInnovation
