@@ -1,0 +1,21 @@
+🚀 Excited to share my latest project on Human Activity Recognition (HAR) using Multilayer Perceptron (MLP)!
+
+👉 Introduction: HAR involves automatically identifying human activities using sensor data. In this project, I explored the potential of MLP, an artificial neural network, on smartphone sensor readings.
+
+📊 Dataset Description: The dataset includes accelerometer and gyroscope readings for activities like walking, running, sitting, and standing, enabling a comprehensive analysis of human movements.
+
+🛠️ Data Preprocessing: I meticulously preprocessed the dataset, handling missing values, normalizing sensor readings, and encoding categorical variables. EDA techniques provided valuable insights into the data distribution.
+
+🧠 Model Building: Leveraging deep learning frameworks like TensorFlow, I constructed an MLP model with input layers for sensor readings, hidden layers with activation functions, and an output layer for activity prediction.
+
+🔍 Training and Evaluation: The MLP model underwent rigorous training using mini-batch gradient descent. Evaluation metrics such as accuracy, precision, recall, and F1-score ensured robust performance on test data.
+
+📈 Results and Analysis: The trained MLP model exhibited promising performance in classifying activities. Visualizations like scatter plots and pair plots helped understand the relationships between sensor readings and activities.
+
+💬 Discussion: Reflecting on the project, I discussed the strengths and limitations of the MLP model for HAR tasks, offering insights for future improvements.
+
+🔍 Conclusion: This project underscores the potential of MLP for HAR, showcasing its effectiveness in accurately identifying human activities based on smartphone sensor data. Excited to delve deeper into real-world applications!
+
+#MachineLearning #DeepLearning #HumanActivityRecognition #MLP #DataScience #ArtificialIntelligence
+
+Feel free to engage and share your thoughts! 🚀✨
