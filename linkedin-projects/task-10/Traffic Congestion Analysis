@@ -1,0 +1,27 @@
+🚗 Traffic Congestion Analysis Project 🚦
+
+Excited to share the highlights of a recent project where I delved into Traffic Congestion Analysis using machine learning and data visualization techniques. 🌐📊
+
+Traffic Congestion Prediction:
+
+Trained a Random Forest classifier to predict traffic congestion based on various features.
+Achieved [Model Accuracy: 93.62%].
+Data Exploration:
+
+Conducted in-depth data exploration, including summary statistics and visualizations.
+Explored time series patterns, correlation between features, and relationships among numerical variables.
+Data Visualization:
+
+📈 Time Series Plot: Visualized trends in traffic patterns over time.
+📊 Correlation Heatmap: Examined relationships between different features.
+🔄 Pair Plot of Numerical Features: Analyzed interactions among numerical variables.
+Visualization of Results:
+
+📊 Box Plot and Violin Plot: Explored the distribution of vehicle counts for different types.
+🗺️ Traffic Congestion Map: Mapped traffic congestion spatially for a comprehensive view.
+Conclusion:
+Summarized key findings, insights, and recommendations based on the analyses conducted.
+
+This project offered valuable insights into traffic patterns and congestion, paving the way for smarter urban planning and traffic management. 🚀
+
+#DataScience #MachineLearning #TrafficAnalysis #DataVisualization #SmartCities
