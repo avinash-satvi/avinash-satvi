@@ -1,0 +1,16 @@
+🚀 Exploring Linear Regression on Synthetic Data
+
+Excited to share a simple Python script showcasing the power of linear regression on synthetic datasets! 📊 This code generates a synthetic dataset, introduces non-linear relationships, and applies linear regression for prediction.
+
+Key Highlights:
+
+🛠 Utilizes make_regression from scikit-learn to create a synthetic dataset.
+📈 Introduces a non-linear relationship by squaring one of the features.
+🚀 Trains a Linear Regression model to predict outcomes.
+📉 Evaluates model performance using Mean Squared Error (MSE).
+📊 Visualizes actual vs. predicted values on the test set.
+Join the Exploration:
+
+💡 Experiment with different parameters and dataset characteristics.
+🚀 Share your insights and learnings in the comments.
+🌐 Let's inspire and learn from each other! #MachineLearning #DataScience #PythonCoding #LinearRegression #SyntheticData
